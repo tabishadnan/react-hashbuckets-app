@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hashbuckets-app/static/css/main.da4555f3.chunk.css",
+    "main.js": "/react-hashbuckets-app/static/js/main.3321def4.chunk.js",
+    "main.js.map": "/react-hashbuckets-app/static/js/main.3321def4.chunk.js.map",
+    "runtime-main.js": "/react-hashbuckets-app/static/js/runtime-main.872cd21e.js",
+    "runtime-main.js.map": "/react-hashbuckets-app/static/js/runtime-main.872cd21e.js.map",
+    "static/js/2.8afa0ea9.chunk.js": "/react-hashbuckets-app/static/js/2.8afa0ea9.chunk.js",
+    "static/js/2.8afa0ea9.chunk.js.map": "/react-hashbuckets-app/static/js/2.8afa0ea9.chunk.js.map",
+    "static/js/3.413dd576.chunk.js": "/react-hashbuckets-app/static/js/3.413dd576.chunk.js",
+    "static/js/3.413dd576.chunk.js.map": "/react-hashbuckets-app/static/js/3.413dd576.chunk.js.map",
+    "index.html": "/react-hashbuckets-app/index.html",
+    "static/css/main.da4555f3.chunk.css.map": "/react-hashbuckets-app/static/css/main.da4555f3.chunk.css.map",
+    "static/js/2.8afa0ea9.chunk.js.LICENSE.txt": "/react-hashbuckets-app/static/js/2.8afa0ea9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872cd21e.js",
+    "static/js/2.8afa0ea9.chunk.js",
+    "static/css/main.da4555f3.chunk.css",
+    "static/js/main.3321def4.chunk.js"
+  ]
+}
