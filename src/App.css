@@ -134,9 +134,9 @@ div#menu {
 
 .column {
   float: left;
-  width: 33%;
+  width: 30%;
   padding: 0 10px;
-  margin: 20px 0px;
+  margin: 20px;
 }
 
 .row:after {
