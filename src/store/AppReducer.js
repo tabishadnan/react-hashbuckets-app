@@ -30,11 +30,8 @@ const AppReducer = (state = initialState, action) => {
 
         case "TOGGLE_FAVOURITE":
             const current_photo_ind = action.isFavObj.ind;
-            photosArrCopy[current_photo_ind].isFavorited = true;
+            photosArrCopy[current_photo_ind].isFavorite = true;
             const FavoritedArr = photosArrCopy.find(photo => photo.id === action.isFavObj.id);
-            if (FavoritedArr) {
-                FavoritedArr.isFavorite = true;
-            }
             return {
                 ...state,
                 photos: photosArrCopy,

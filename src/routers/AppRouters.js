@@ -12,7 +12,7 @@ const AppRouters = () => {
                 <Header />
                 <div className="content">
                 <Switch>
-                    <Route exact path="/" component={Photos} />
+                    <Route exact path={["/", "/react-hashbuckets-app"]} component={Photos} />
                     <Route exact path="/cart" component={Cart} />
                     <Route component={NotFound} />
                 </Switch>

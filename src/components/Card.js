@@ -20,6 +20,7 @@ const Card = (props) => {
     dispatch({ type: "TOGGLE_FAVOURITE", isFavObj });
 
     console.log("Update Array Property isFavourited");
+    console.log("Add Item To Cart");
 
   };
 
@@ -27,8 +28,8 @@ const Card = (props) => {
     <div className="card">
       <img src={photo.url} alt={photo.id} style={{ width: "100%", height: "200px" }} />
       <div className="card-icon-wrp">
-        {!photo.isFavorited && <FaRegHeart onClick={() => handleIsFavorited(index, photo.id)} />}
-        {photo.isFavorited && <FaHeart />}
+        {!photo.isFavorite && <FaRegHeart onClick={() => handleIsFavorited(index, photo.id)} />}
+        {photo.isFavorite && <FaHeart />}
         <div>
           <FaRegPlusSquare />
         </div>
