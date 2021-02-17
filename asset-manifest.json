@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-hashbuckets-app/static/css/main.da4555f3.chunk.css",
-    "main.js": "/react-hashbuckets-app/static/js/main.3321def4.chunk.js",
-    "main.js.map": "/react-hashbuckets-app/static/js/main.3321def4.chunk.js.map",
+    "main.js": "/react-hashbuckets-app/static/js/main.e0b6e850.chunk.js",
+    "main.js.map": "/react-hashbuckets-app/static/js/main.e0b6e850.chunk.js.map",
     "runtime-main.js": "/react-hashbuckets-app/static/js/runtime-main.872cd21e.js",
     "runtime-main.js.map": "/react-hashbuckets-app/static/js/runtime-main.872cd21e.js.map",
     "static/js/2.8afa0ea9.chunk.js": "/react-hashbuckets-app/static/js/2.8afa0ea9.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.872cd21e.js",
     "static/js/2.8afa0ea9.chunk.js",
     "static/css/main.da4555f3.chunk.css",
-    "static/js/main.3321def4.chunk.js"
+    "static/js/main.e0b6e850.chunk.js"
   ]
 }
